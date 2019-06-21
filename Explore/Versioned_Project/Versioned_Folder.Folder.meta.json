@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "aahkxX6Bj6se9EW8Wfa6wI",
+    "name" : "Versioned_Folder",
+    "type" : "Folder",
+    "path" : "/Explore/Versioned_Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      },
+      "objectRefs" : [ ]
+    },
+    "dataFileExtension" : "json"
+  }
+}
