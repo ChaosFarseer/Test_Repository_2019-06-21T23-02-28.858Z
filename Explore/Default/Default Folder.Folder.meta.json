@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "3EaWBpBG2c7gAJJNHCy4or",
+    "name" : "Default Folder",
+    "type" : "Folder",
+    "path" : "/Explore/Default",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      },
+      "objectRefs" : [ ]
+    },
+    "dataFileExtension" : "json"
+  }
+}
