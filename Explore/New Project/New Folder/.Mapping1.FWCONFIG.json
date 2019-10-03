@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "1RvvicPwfMPhNXgdEXLHae",
+    "id" : "iyQfSv6bzgLcWY5AzVr6QI",
     "name" : "Mapping1",
     "type" : "FWCONFIG",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01000129000000000005"
+        "repoHandle" : "01000129000000000006"
       },
       "contextAttributes" : [ {
         "name" : "id",
