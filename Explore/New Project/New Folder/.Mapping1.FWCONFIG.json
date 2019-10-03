@@ -1,0 +1,27 @@
+{
+  "objectInfo" : {
+    "id" : "1RvvicPwfMPhNXgdEXLHae",
+    "name" : "Mapping1",
+    "type" : "FWCONFIG",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01000129000000000005"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "FWFF with suspiciously duplicated name. ",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "objectRefs" : [ ]
+}
