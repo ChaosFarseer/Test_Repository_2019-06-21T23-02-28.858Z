@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "3Ot4cRiRo8LjLtBHs6kJ25",
+    "id" : "fMKJym6chEmgiITuBziuw2",
     "name" : "Parameterized Mapping",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01000017000000000002"
+        "repoHandle" : "01000017000000000003"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,8 +24,8 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "4sNVpmgPpCiiNTZ5nlHcmP",
-    "name" : "Hatman Flat File Connection",
+    "id" : "1dWDAjO8r54jrHwxjp272c",
+    "name" : "Flat File Connection",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {

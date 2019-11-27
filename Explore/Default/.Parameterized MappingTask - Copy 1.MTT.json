@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "8qJEFH3fuSGfnWjLVjNAy1",
+    "id" : "2Abyz00TE0Ve1sCMqo1ISI",
     "name" : "Parameterized MappingTask - Copy 1",
     "type" : "MTT",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100000Z000000000004"
+        "repoHandle" : "0100000Z000000000002"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -17,35 +17,15 @@
       } ],
       "additionalInfo" : {
         "description" : "",
-        "contentType" : null,
+        "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "4w6mqDZGEchdsTbOCINc6y",
-    "name" : "hatman",
-    "type" : "AgentGroup",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "01000025000000000002"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "JSON",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/SYS"
-  }, {
-    "id" : "4sNVpmgPpCiiNTZ5nlHcmP",
-    "name" : "Hatman Flat File Connection",
+    "id" : "1dWDAjO8r54jrHwxjp272c",
+    "name" : "Flat File Connection",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -64,7 +44,7 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "3Ot4cRiRo8LjLtBHs6kJ25",
+    "id" : "fMKJym6chEmgiITuBziuw2",
     "name" : "Parameterized Mapping",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -73,9 +53,12 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01000017000000000002"
+        "repoHandle" : "01000017000000000003"
       },
-      "contextAttributes" : null,
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
       "additionalInfo" : {
         "description" : "",
         "contentType" : "JSON",
@@ -83,5 +66,25 @@
       }
     },
     "path" : "/Explore/Default"
+  }, {
+    "id" : "6hxp8ewT9Uiezy2J91kLUY",
+    "name" : "hatman",
+    "type" : "AgentGroup",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01000025000000000002"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/SYS"
   } ]
 }
